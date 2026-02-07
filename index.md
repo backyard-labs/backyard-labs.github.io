@@ -1,5 +1,5 @@
 ---
-title: StratLens
+title: StartLens
 ---
 
 # StratLens (Beta)
