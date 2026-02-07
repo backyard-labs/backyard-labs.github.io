@@ -53,7 +53,7 @@ These constraints are deliberate.
 
 ## Try StratLens (Beta)
 
-👉 **[Enter StratLens Operator Mode]([PASTE_YOUR_GPT_LINK_HERE](https://chatgpt.com/g/g-696986b1007481918c09c877b6b969f1-stratlens))**
+👉 **[Enter StratLens Operator Mode](https://chatgpt.com/g/g-696986b1007481918c09c877b6b969f1-stratlens)**
 
 ---
 
