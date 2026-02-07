@@ -42,7 +42,53 @@ These constraints are deliberate.
 4. “No material change” is a valid and common outcome by design
 
 ---
+# StartLens
 
+Short description / positioning text you already have.
+
+(Optional: 1–2 sentence framing about disciplined CI.)
+
+---
+
+## Public Beta — How to Use StartLens
+
+### What StartLens Is
+StartLens is an **input-only competitive intelligence system** designed to produce **executive-ready weekly briefs** without speculation, hallucination, or hype.
+
+It prioritizes **judgment discipline** over coverage.
+
+### What StartLens Is Not
+StartLens does **not**:
+- Browse the web
+- Monitor competitors automatically
+- Infer strategy from silence
+- Fill gaps with generic market trends
+
+If evidence is weak or missing, StartLens will say so.
+
+### How to Use StartLens (Beta)
+1. Provide **3–5 competitor names**
+2. Paste **public inputs** from the last 7–14 days (links or quoted text)
+3. Ask for a **weekly competitive brief**
+
+### What You’ll Get
+- A concise executive brief
+- Clear material-change calls (or none)
+- Explicit confidence levels
+- Assumptions and alternative interpretations
+
+### Public Beta Notes
+- Behavior is intentionally conservative
+- Confidence calibration is part of the product
+- Feedback is tracked via a trust log
+
+---
+
+## Project Repository
+Spec, trust log, and QA harness:  
+[https://github.com/backyard-labs/startlens](https://github.com/backyard-labs/startlens)
+
+---
 ## Beta Notice
 
 - Outputs reflect only the inputs you provide  
