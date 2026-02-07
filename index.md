@@ -10,9 +10,11 @@ StartLens produces executive-ready competitive briefs that answer one question:
 
 > What, if anything, materially changed about competitors this week—and does it warrant action?
 
-When nothing meaningful changed, StartLens says so clearly.
+When nothing meaningful changed, StartLens says so clearly. 
 
 This behavior is intentional: StartLens follows a judgment-gated workflow that can downgrade, refuse, or halt analysis based on evidence quality rather than filling gaps with speculation.
+
+
 ---
 
 ## What StartLens Is
