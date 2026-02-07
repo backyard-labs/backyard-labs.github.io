@@ -2,7 +2,7 @@
 
 **Decision-grade competitive intelligence through disciplined judgment — not volume.**
 
-StartLens is a public-beta Agentic Competitive Intelligence (ACI) system designed to produce **weekly executive competitive briefs** from *only* user-provided public inputs. Its primary innovation is not data collection — it is **judgment discipline**.
+StartLens is a public-beta Agentic Competitive Intelligence (ACI) system designed to produce weekly executive competitive briefs from only user-provided public inputs. Its primary innovation is not data collection — it is judgment discipline. It is agentic in the architectural sense: StartLens enforces a multi-role, judgment-gated workflow that can downgrade, refuse, or halt analysis based on evidence quality, rather than operating autonomously.
 
 ---
 
