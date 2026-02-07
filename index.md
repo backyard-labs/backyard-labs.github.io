@@ -62,3 +62,11 @@ These constraints are deliberate.
 After using StratLens, ask yourself:
 
 > Would I forward this unedited to a senior leader? Why or why not?
+
+---
+
+## Project Repository
+
+Design spec, Operator rules, trust log, and QA harness for StartLens:
+
+[github.com/backyard-labs/startlens](https://github.com/backyard-labs/startlens)
