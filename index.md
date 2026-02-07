@@ -2,7 +2,7 @@
 title: StartLens
 ---
 
-# StratLens (Beta)
+# StartLens (Beta)
 
 ## Judgment-disciplined competitive intelligence
 
